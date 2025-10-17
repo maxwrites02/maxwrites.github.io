@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = "Max's Weblog"
 theme = 'mainroad'
 
-[Author]
-    name = "Max"
-    bio = "Hi, I am a 22-year-old guy from India who likes to read books and play football in his free time."
 
 [Params]
     description = "Max's Personal blog where he posts about food, daily experiences, anime, sports and computers"
@@ -16,6 +13,9 @@ theme = 'mainroad'
     post_meta = ["author", "date", "categories"]
     mainSections = ["posts", "blog", "news"]
     dateformat = "2006-01-02"
+
+[Params.author]
+    name = "Max"
 
 [Params.style.vars]
   highlightColor = "#e22d30"
