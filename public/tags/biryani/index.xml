@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biryani on Max&#39;s Weblog</title>
+    <link>//localhost:1313/tags/biryani/</link>
+    <description>Recent content in Biryani on Max&#39;s Weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 08:12:59 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/biryani/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyderabadi vs Muradabadi Biryani</title>
+      <link>//localhost:1313/posts/biryani/</link>
+      <pubDate>Sun, 05 Oct 2025 08:12:59 +0000</pubDate>
+      <guid>//localhost:1313/posts/biryani/</guid>
+      <description>I am living in New Delhi for a month now, and yesterday I got a chance to try the infamous dish, Biryani. In my state, Biryani is not a common dish and cannot be found at the major places, so I don&amp;rsquo;t know how it tastes and what&amp;rsquo;s the standard taste for biryani, but the biryani I ate last night was very flavourful and tasty.&#xA;There were two types of biryani on the shop; Hyderabadi and Muradabadi.</description>
+    </item>
+  </channel>
+</rss>

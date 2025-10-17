@@ -2,10 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Max&#39;s Weblog</title>
-    <link>//localhost:34725/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Max&#39;s Weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:34725/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 11:58:17 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpyxFamily</title>
+      <link>//localhost:1313/tags/spyxfamily/</link>
+      <pubDate>Fri, 17 Oct 2025 11:58:17 +0000</pubDate>
+      <guid>//localhost:1313/tags/spyxfamily/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biryani</title>
+      <link>//localhost:1313/tags/biryani/</link>
+      <pubDate>Sun, 05 Oct 2025 08:12:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/biryani/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian Food</title>
+      <link>//localhost:1313/tags/indian-food/</link>
+      <pubDate>Sun, 05 Oct 2025 08:12:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/indian-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freedom</title>
+      <link>//localhost:1313/tags/freedom/</link>
+      <pubDate>Fri, 19 Sep 2025 08:09:46 +0000</pubDate>
+      <guid>//localhost:1313/tags/freedom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>//localhost:1313/tags/thoughts/</link>
+      <pubDate>Fri, 19 Sep 2025 08:09:46 +0000</pubDate>
+      <guid>//localhost:1313/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mutton Curry</title>
+      <link>//localhost:1313/tags/mutton-curry/</link>
+      <pubDate>Sat, 06 Sep 2025 07:47:08 +0000</pubDate>
+      <guid>//localhost:1313/tags/mutton-curry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>//localhost:1313/tags/google/</link>
+      <pubDate>Tue, 26 Aug 2025 07:40:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacked</title>
+      <link>//localhost:1313/tags/hacked/</link>
+      <pubDate>Tue, 26 Aug 2025 07:40:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/hacked/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Addiction</title>
+      <link>//localhost:1313/tags/addiction/</link>
+      <pubDate>Wed, 20 Aug 2025 08:01:43 +0000</pubDate>
+      <guid>//localhost:1313/tags/addiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>//localhost:1313/tags/social-media/</link>
+      <pubDate>Wed, 20 Aug 2025 08:01:43 +0000</pubDate>
+      <guid>//localhost:1313/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazon</title>
+      <link>//localhost:1313/tags/amazon/</link>
+      <pubDate>Tue, 05 Aug 2025 08:05:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/amazon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flipkart</title>
+      <link>//localhost:1313/tags/flipkart/</link>
+      <pubDate>Tue, 05 Aug 2025 08:05:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/flipkart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>//localhost:1313/tags/rant/</link>
+      <pubDate>Tue, 05 Aug 2025 08:05:59 +0000</pubDate>
+      <guid>//localhost:1313/tags/rant/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

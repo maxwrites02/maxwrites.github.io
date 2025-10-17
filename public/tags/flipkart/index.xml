@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flipkart on Max&#39;s Weblog</title>
+    <link>//localhost:1313/tags/flipkart/</link>
+    <description>Recent content in Flipkart on Max&#39;s Weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 08:05:59 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/flipkart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I will not buy anything online</title>
+      <link>//localhost:1313/posts/online-shopping/</link>
+      <pubDate>Tue, 05 Aug 2025 08:05:59 +0000</pubDate>
+      <guid>//localhost:1313/posts/online-shopping/</guid>
+      <description>This is a rant post.&#xA;I have decided to not buy or order anything from online websites like Amazon, Flipkart, Zomato, Blinkit etc. These services are not meant for convenience anymore, these websites have started charging convenience charges if you order something from them. I can let the convenience charges pass, but charging extra money for Cash On Delivery option is not good and, these charges changes according to the order&amp;rsquo;s cost.</description>
+    </item>
+  </channel>
+</rss>

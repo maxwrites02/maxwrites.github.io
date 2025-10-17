@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Max&#39;s Weblog</title>
+    <link>//localhost:1313/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Max&#39;s Weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Sep 2025 08:09:46 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freedom should be the first priority in every aspect of your life</title>
+      <link>//localhost:1313/posts/freedom/</link>
+      <pubDate>Fri, 19 Sep 2025 08:09:46 +0000</pubDate>
+      <guid>//localhost:1313/posts/freedom/</guid>
+      <description>I have spent half a decade in academics and I have experienced that there is no freedom in academics and in corporate or any job. You have to follow the retarded rules which lowers your productivity and will to produce something of quality. You have to join mandatory meetings which are not very fruitful and are arranged to just look busy and to fill time. The thing I dislike about the academic life in india is that you have to join useless events which don&amp;rsquo;t have anything to do with your course and they are mandatory to join or you will be sidelined and targetted for not joining them in fun.</description>
+    </item>
+  </channel>
+</rss>

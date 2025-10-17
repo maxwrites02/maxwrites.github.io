@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on Max&#39;s Weblog</title>
+    <link>//localhost:1313/categories/food/</link>
+    <description>Recent content in Food on Max&#39;s Weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 08:12:59 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyderabadi vs Muradabadi Biryani</title>
+      <link>//localhost:1313/posts/biryani/</link>
+      <pubDate>Sun, 05 Oct 2025 08:12:59 +0000</pubDate>
+      <guid>//localhost:1313/posts/biryani/</guid>
+      <description>I am living in New Delhi for a month now, and yesterday I got a chance to try the infamous dish, Biryani. In my state, Biryani is not a common dish and cannot be found at the major places, so I don&amp;rsquo;t know how it tastes and what&amp;rsquo;s the standard taste for biryani, but the biryani I ate last night was very flavourful and tasty.&#xA;There were two types of biryani on the shop; Hyderabadi and Muradabadi.</description>
+    </item>
+    <item>
+      <title>Recipe: Mutton Curry</title>
+      <link>//localhost:1313/posts/mutton-curry-recipe/</link>
+      <pubDate>Sat, 06 Sep 2025 07:47:08 +0000</pubDate>
+      <guid>//localhost:1313/posts/mutton-curry-recipe/</guid>
+      <description>This is my all time favourite and easy recipe to cook mutton curry. The ingredients can be easily found. This is my first time writing recipe/cooking post, if you want to give me any suggestion or feedback, you can find my email at the bottom of this page. In this recipe, I am using 500g mutton.&#xA;Ingredients:&#xA;500g Mutton 2 Cup Mustard Oil/ Cooking Oil 2 Small to Medium Sized Onion 2 Small to Medium Sized Tomatoes 2 Green Chillies 2 Garlic Cloves 2 Tbsp Yogurt 1 Tbsp Salt 1/2 Turmeric powder 2 Tbsp Kashmiri Red Chilli Powder 2-4 Tbsp Meat Masala 2 Green Cardamom, 2 Cumin and 5-6 Black Pepper First, clean the mutton with water thoroughly.</description>
+    </item>
+  </channel>
+</rss>

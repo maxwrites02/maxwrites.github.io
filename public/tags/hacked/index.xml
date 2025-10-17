@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacked on Max&#39;s Weblog</title>
+    <link>//localhost:1313/tags/hacked/</link>
+    <description>Recent content in Hacked on Max&#39;s Weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2025 07:40:59 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/hacked/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Google account was compromised for 6 months</title>
+      <link>//localhost:1313/posts/google-account-hacked/</link>
+      <pubDate>Tue, 26 Aug 2025 07:40:59 +0000</pubDate>
+      <guid>//localhost:1313/posts/google-account-hacked/</guid>
+      <description>My Google account was compromised for 6 months, and google sent me no security notification regarding this. On 22 Aug, Google sent me a notification that &amp;ldquo;you signed out from your device&amp;rdquo; when I was watching YouTube on my Android device. When I checked in my Google Account dashboard, it showed that my Gmail was logged out from Germany. My Gmail had been logged into that device since Feb, 2025. My Google account has had 2FA enabled for the past four years, since I created this account.</description>
+    </item>
+  </channel>
+</rss>
