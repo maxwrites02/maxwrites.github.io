@@ -1,0 +1,57 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = "Max's Weblog"
+theme = 'mainroad'
+
+[Author]
+    name = "Max"
+    bio = "Hi, I am a 22-year-old guy from India who likes to read books and play football in his free time."
+
+[Params]
+    description = "Max's Personal blog where he posts about food, daily experiences, anime, sports and computers"
+    copyright = "Max's Weblog. No AI tools are used in any form for making content of this website"
+    readmore =true 
+    toc = true
+    pager = true
+    post_meta = ["author", "date", "categories"]
+    mainSections = ["posts", "blog", "news"]
+    dateformat = "2006-01-02"
+
+[Params.style.vars]
+  highlightColor = "#e22d30"
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+    # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+    title = "Max's Weblog"
+    subtitle = "Just another Personal blog on the internet"
+
+[Params.sidebar]
+    home = "right" # Configure layout for home page
+    list = "left"  # Configure layout for list pages
+    single = false # Configure layout for single pages
+        # Enable widgets in given order
+    widgets = ["recent", "categories", "taglist", "social", "languages"]
+        #
+[Params.widgets]
+    recent_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories_counter = true # Enable counter for each category in "Categories" widget
+    tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[menu]
+    [[menu.main]]
+        identifier = 'home'
+        name = "Home"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = 'about'
+        name = "About"
+        url = "/about/"
+        weight = 20
